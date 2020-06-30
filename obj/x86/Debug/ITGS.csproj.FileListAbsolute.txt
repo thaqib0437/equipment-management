@@ -1,0 +1,13 @@
+C:\Users\thaqi\source\repos\ITGS\bin\x86\Debug\ITGS.exe.config
+C:\Users\thaqi\source\repos\ITGS\bin\x86\Debug\ITGS.exe
+C:\Users\thaqi\source\repos\ITGS\bin\x86\Debug\ITGS.pdb
+C:\Users\thaqi\source\repos\ITGS\bin\x86\Debug\aa\ITGS.resources.dll
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.csprojAssemblyReference.cache
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.First.resources
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.Properties.Resources.resources
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.StudentLogin.resources
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.First.aa.resources
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.csproj.GenerateResource.cache
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\aa\ITGS.resources.dll
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.exe
+C:\Users\thaqi\source\repos\ITGS\obj\x86\Debug\ITGS.pdb
